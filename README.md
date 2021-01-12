@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RealBJsingh</h1>
 
-- 💼 I’m currently working on our server, [Cosmocraft](https://github.com/Cosmocraft)
+- 💼 I’m currently working on our server, [Cosmocraft](https://github.com/RealBJsingh/Cosmocraft)
 
 - 🌱 I’m currently learning about **Php, Pocketmine Plugins**
 
