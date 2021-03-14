@@ -11,3 +11,5 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealBjsingh&layout=compact)](https://github.com/RealBjsingh/github-readme-stats)
+
+![RealBjsingh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealBjsingh&show_icons=true&theme=radical)
