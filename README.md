@@ -13,3 +13,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealBjsingh&layout=compact)](https://github.com/RealBjsingh/github-readme-stats)
 
 ![RealBjsingh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealBjsingh&show_icons=true&theme=radical)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RealBjsingh&label=Profile%20views&color=0e75b6&style=flat" alt="RealBjsingh" height="30" width="270" /> </p>
