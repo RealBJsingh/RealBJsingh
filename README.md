@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RealBJsingh</h1>
   
-    Executive Of Cosmocraft Network
+ Executive Of Cosmocraft Network
 <a href="#" target="blank"><img align="center" src="img/20210208_111648.png" height="110" width="270" /></a>
 
 
