@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RealBJsingh</h1>
-- 💼 I’m Executive of  [Cosmocraft Network](https://github.com/RealBJsingh/Cosmocraft)
+- 💼 I’m Executive of  [Cosmocraft_Network](https://github.com/RealBJsingh/Cosmocraft)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
