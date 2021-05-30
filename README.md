@@ -10,8 +10,8 @@
 <a href="https://youtube.com/channel/UC7GkJA4mV-X_0HfPo4cN_qA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="RealBjsingh" height="50" width="70" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealBjsingh&layout=compact)](https://github.com/RealBjsingh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealBJsingh&layout=compact)](https://github.com/RealBjsingh/github-readme-stats)
 
 ![RealBjsingh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealBjsingh&show_icons=true&theme=radical)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RealBjsingh&label=Profile%20views&color=0e75b6&style=flat" alt="RealBjsingh" height="30" width="270" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RealBJsingh&label=Profile%20views&color=0e75b6&style=flat" alt="RealBjsingh" height="30" width="270" /> </p>
