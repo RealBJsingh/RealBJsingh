@@ -8,7 +8,9 @@
 <p align="left">
 <a href="https://twitter.com/Realbjsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="RealBjsingh" height="50" width="70" /></a>
 <a href="https://youtube.com/channel/UC7GkJA4mV-X_0HfPo4cN_qA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="RealBjsingh" height="50" width="70" /></a>
+<a href="https://youtube.com/channel/UC7GkJA4mV-X_0HfPo4cN_qA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="RealBjsingh" height="50" width="70" /></a>
 </p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealBJsingh&layout=compact)](https://github.com/RealBjsingh/github-readme-stats)
 
